@@ -13,10 +13,10 @@
 
 	<!-- VERSION NUMBER -->
 	<PropertyGroup>
-		<VersionMajor>0</VersionMajor>
-		<VersionMinor>1</VersionMinor>
+		<VersionMajor>1</VersionMajor>
+		<VersionMinor>0</VersionMinor>
 		<VersionPatch>0</VersionPatch>
-		<VersionSuffix></VersionSuffix>
+		<VersionSuffix>-build1</VersionSuffix>
 	</PropertyGroup>
 
 	<!-- CLEAN -->
