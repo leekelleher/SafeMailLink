@@ -12,7 +12,7 @@ To get a copy of SafeMailLink you have the following options:
 
 * Download the source and run the `build.cmd` (which runs an MSBuild against `build.proj`)
 * Install using NuGet: [`PM> Install-Package SafeMailLink`](https://nuget.org/packages/SafeMailLink/)
-* or if you using the Umbraco CMS, then there is a specific package avaliable: [SafeMailLink for Umbraco](http://our.umbraco.org/projects/website-utilities/safe-mail-link)
+* or if you use Umbraco CMS, then try the [SafeMailLink for Umbraco](http://our.umbraco.org/projects/website-utilities/safe-mail-link) package
 
 ## Historical links
 
