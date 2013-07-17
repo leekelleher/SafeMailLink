@@ -16,13 +16,13 @@ To get a copy of SafeMailLink you have the following options:
 
 ## Historical links
 
-* [Marco Bellinaso's homepage](http://marcobellinaso.com/)
+* The homepage of the original developer - [Marco Bellinaso](http://marcobellinaso.com/)
 * [WayBack Machine archive of the original .Net2TheMax article](http://web.archive.org/web/20090818133549/http://www.dotnet2themax.com/ShowContent.aspx?ID=35efbee1-d8cd-4720-9eb2-83fc9a4033bb)
 * [ASP.NET Control Gallery page for original SafeMailLink](http://www.asp.net/community/control-gallery/Item.aspx?i=829)
 
 ## License
 Copyright &copy; 2004 Marco Bellinaso<br/>
-Copyright &copy; 2013 Lee Kelleher<br/>
+Copyright &copy; 2011 Lee Kelleher<br/>
 
 This project is licensed under [MIT](http://opensource.org/licenses/mit-license/).
 
