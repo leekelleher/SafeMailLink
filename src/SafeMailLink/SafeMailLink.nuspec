@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+	<metadata>
+		<id>SafeMailLink</id>
+		<version>$version$</version>
+		<title>SafeMailLink</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+		<licenseUrl>https://github.com/leekelleher/SafeMailLink/blob/master/LICENSE.txt</licenseUrl>
+		<projectUrl>http://leekelleher.github.io/SafeMailLink/</projectUrl>
+		<iconUrl>http://leekelleher.github.io/SafeMailLink/images/icon.png</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<summary>SafeMailLink prevents spambots from harvesting email addresses from your webpages.</summary>
+		<description>
+			<![CDATA[SafeMailLink prevents spambots from harvesting email addresses from your webpages.]]>
+		</description>
+		<copyright>Copyright &#169; 2011 Lee Kelleher</copyright>
+		<tags>email spam antispam mailto</tags>
+		<dependencies />
+	</metadata>
+	<files />
+</package>
